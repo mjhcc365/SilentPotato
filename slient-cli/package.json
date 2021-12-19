@@ -1,0 +1,18 @@
+{
+  "name": "slient-cli",
+  "version": "1.0.0",
+  "description": "胡扯扯的脚手架",
+  "main": "index.js",
+  "bin": {
+    "slient-cli": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "hucheche"
+  ],
+  "author": "",
+  "license": "ISC"
+}
